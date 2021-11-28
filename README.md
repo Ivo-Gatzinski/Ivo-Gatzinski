@@ -1,5 +1,5 @@
 # 🌍
-## <img alt="Hello" src="https://img.shields.io/badge/Hello-World-blueviolet?style=for-the-badge">
+## <img alt="Hello" src="https://img.shields.io/badge/Hello-World-blueviolet?logo=github&style=for-the-badge">
 
 <a href="https://www.twitter.com/IvoGatzinski" target="_blank"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/IvoGatzinski?style=social"></a>
 
