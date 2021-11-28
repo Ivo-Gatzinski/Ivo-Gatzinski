@@ -1,8 +1,11 @@
-# </a><img width="42px" src="/img/sun.svg"></img> 🌍 
-
-<a href="https://ivo-gatzinski.github.io/portfolio" target="_blank"><img alt="Hello" src="https://img.shields.io/badge/Hello-World-blueviolet?logo=github&style=for-the-badge"></a>
+</a><img width="42px" src="/img/sun.svg"></img> 
+# 🌍 <a href="https://ivo-gatzinski.github.io/portfolio" target="_blank"><img alt="Hello" src="https://img.shields.io/badge/Hello-World-blueviolet?logo=github&style=for-the-badge"></a>
 
 <a href="https://www.twitter.com/IvoGatzinski" target="_blank"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/IvoGatzinski?style=social"></a>
+
+![Ivo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivo-Gatzinski&show_icons=true&theme=cobalt)
+
+(Stats by [Anurag](https://github.com/anuraghazra/github-readme-stats))
 
 <!--
 **Ivo-Gatzinski/Ivo-Gatzinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
