@@ -1,4 +1,6 @@
 # Hello, World! 🌍
+
+<a href="https://www.twitter.com/IvoGatzinski" target="_blank"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/IvoGatzinski?style=social"></a>
 <!--
 **Ivo-Gatzinski/Ivo-Gatzinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
