@@ -1,4 +1,4 @@
-#<img width="36px" src="/img/sun.svg"></img> 🌍 
+# <img width="36px" src="/img/sun.svg"></img> 🌍 
 
 <a href="https://ivo-gatzinski.github.io/portfolio" target="_blank"><img alt="Hello" src="https://img.shields.io/badge/Hello-World-blueviolet?logo=github&style=for-the-badge"></a>
 
