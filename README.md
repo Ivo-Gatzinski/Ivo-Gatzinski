@@ -2,7 +2,7 @@
 
 <a href="https://ivo-gatzinski.github.io/portfolio" target="_blank"><img alt="Hello" src="https://img.shields.io/badge/Hello-World-blueviolet?logo=github&style=for-the-badge"></a>
 
-## I am currently working on: [Healthy Pets](https://github.com/elenaliu0415/healthy-pets) 🐭 
+## I am currently working on: [Healthy Pets](https://github.com/Ivo-Gatzinski/healthy-pets) 🐭 
 ## Now learning <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=for-the-badge"></img> ☕️
 
 <a href="https://www.twitter.com/IvoGatzinski" target="_blank"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/IvoGatzinski?style=social"></a> 
