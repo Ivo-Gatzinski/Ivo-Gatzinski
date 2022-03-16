@@ -4,7 +4,7 @@
 
 ## I am currently working on: [Healthy Pets](https://github.com/Ivo-Gatzinski/healthy-pets) 🐭 
 ## Now learning <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=for-the-badge"></img> ☕️ 
-and <img alt="Python" src="https://img.shields.io/badge/-Python-blue?logo=python?style-for-the-badge"></img>
+and <img alt="Python" src="https://img.shields.io/badge/-Python-blue?logo=python&style-for-the-badge"></img>
 
 <a href="https://www.twitter.com/IvoGatzinski" target="_blank"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/IvoGatzinski?style=social"></a> 
 ## 📬 <a href="mailto:ivo.gatzinski@outlook.com"><img alt="Email" src="https://img.shields.io/badge/-Email me!-darkgreen?style=for-the-badge"></img></a> in <a href="https://www.linkedin.com/in/ivo-gatzinski/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge"></img></a>
