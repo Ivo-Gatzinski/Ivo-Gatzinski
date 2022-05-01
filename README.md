@@ -12,7 +12,7 @@
 
 (Stats by [Anurag](https://github.com/anuraghazra/github-readme-stats))
 
-# Download my <a href="https://ivo-gatzinski.github.io/portfolio/static/media/resume-gatzinski-ivo.70e10e44.pdf" target="_blank">Resume</a>
+## Download my <a href="https://ivo-gatzinski.github.io/portfolio/static/media/resume-gatzinski-ivo.70e10e44.pdf" target="_blank">Resume</a>
 
 <!--
 **Ivo-Gatzinski/Ivo-Gatzinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
