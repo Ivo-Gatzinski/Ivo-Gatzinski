@@ -2,7 +2,6 @@
 
 <a href="https://ivo-gatzinski.github.io/portfolio" target="_blank"><img alt="Hello" src="https://img.shields.io/badge/Hello-World-blueviolet?logo=github&style=for-the-badge"></a>
 
-## I am currently working on: [Healthy Pets](https://github.com/Ivo-Gatzinski/healthy-pets) 🐭 
 ## Now learning 
  <img alt="Java" src="https://img.shields.io/badge/-Java-navy?logo=java&style=for-the-badge"></img>
  <img alt="Python" src="https://img.shields.io/badge/-Python-darkgreen?logo=python&logoColor=gold&style=for-the-badge"></img>
